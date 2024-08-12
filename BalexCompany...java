@@ -6,7 +6,7 @@ package data.balexcompany;
 
 /**
  *
- * @author LUBEGA
+ * @author 
  */
 // Define the balexCompany class
 public class BalexCompany {
